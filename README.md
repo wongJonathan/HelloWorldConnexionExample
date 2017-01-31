@@ -3,7 +3,7 @@ A Hello World example of using Swagger, Connexion, and Flask to make a AWS Lambd
 
 ## Prerequisites:
 You will need to install:
-[Connexion]( https://github.com/zalando/connexion/blob/master/README.rst)
+[Connexion](https://github.com/zalando/connexion)
 
 ## Setup:
 
