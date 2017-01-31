@@ -3,7 +3,9 @@ A Hello World example of using Swagger, Connexion, and Flask to make a AWS Lambd
 
 ## Prerequisites:
 You will need to install:
-[Connexion](https://github.com/zalando/connexion)
+[Connexion]( https://github.com/zalando/connexion/blob/master/README.rst)
+[serverless-wsgi]( https://github.com/logandk/serverless-wsgi)
+[virtualenv]( https://virtualenv.pypa.io/en/stable/installation/)
 
 ## Setup:
 
